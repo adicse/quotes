@@ -1,663 +1,773 @@
 [
     {
-        "qoute": "What is life, Life is the ability and courage to gain or reproduce the happiness that was lost or taken away.",
+        "type": "quote",
+		"msg": "What is life, Life is the ability and courage to gain or reproduce the happiness that was lost or taken away.",
         "ref": "Ankit Waroo and Ranbir (Beer Bisceps) Podcast",
         "link": "",
         "short_link": "https://www.facebook.com/reel/756458133347836"
     },
     {
-        "quote":"Wealth comes from Value creation.",
+        "type": "quote",
+		"msg":"Wealth comes from Value creation.",
         "ref":"Ankit Waroo and Ranbir (Beer Bisceps) Podcast",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"Dont buy Luxury Items on Active Income",
+        "type": "quote",
+		"msg":"Dont buy Luxury Items on Active Income",
         "ref":"podcast",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"Competence Builds Confindence",
+        "type": "quote",
+		"msg":"Competence Builds Confindence",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"Feel your dreams, live it in your mind. Dont just speak it!",
+        "type": "quote",
+		"msg":"Feel your dreams, live it in your mind. Dont just speak it!",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"Learn how to think, rather what to think.",
+        "type": "quote",
+		"msg":"Learn how to think, rather what to think.",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"Fastest way to become poor is to show that you are rich.",
+        "type": "quote",
+		"msg":"Fastest way to become poor is to show that you are rich.",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"Continuous Improvement is better than delayed perfection.",
+        "type": "quote",
+		"msg":"Continuous Improvement is better than delayed perfection.",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"FREEDOM is the GOAL, money is the tool.",
+        "type": "quote",
+		"msg":"FREEDOM is the GOAL, money is the tool.",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"A man with purpose leads to ascention, a man without purpose leads to mischief.",
+        "type": "quote",
+		"msg":"A man with purpose leads to ascention, a man without purpose leads to mischief.",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
-        "ref":"",
+        "type": "song",
+		"msg":"Dream the impossible dream, fight the unbeatable foe, bear the unbearable sorrow, run where the brave dare not to go",
+        "ref":"The Impossible Dream, Song by Josh Groban",
         "link":"",
-"short_link": ""
+		"lyrics_link": "https://www.google.com/search?q=the+impossible+dream+lyrics"
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     },
     {
-        "quote":"",
+        "type": "quote",
+		"msg":"",
         "ref":"",
         "link":"",
-"short_link": ""
+		"short_link": ""
     }
 
 ]
